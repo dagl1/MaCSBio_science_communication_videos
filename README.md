@@ -1,29 +1,26 @@
-Description
+# Description
+This repository contains the files necessary for creating animations of MaCSBio-derived algorithms for educational and science communication purposes. It also includes the videos themselves as well as instructions for student projects (MSP and others) on how to contribute to this repository. 
 
-table of contents
+# Table of contents
 
-MSP project description
-Manim examples
+## Examples/highlights
 
-resources
-git 
-manim video 
-manim api
+## Student project description
 
-instructions
-git usage 
-scene/file management
+## resources
+### git 
+### manim video 
+### manim api
 
-report hints
-presentation hints
+## instructions
+### storyboarding
+### git usage 
+### scene/file management
 
-other repo instructions
+## report hints
+## presentation hints
 
-
-
-
-
-
+## Other instructions (not for students)
 
 
 
@@ -80,5 +77,6 @@ Required actions:
 
 
 ________________________________________________
+
 
 

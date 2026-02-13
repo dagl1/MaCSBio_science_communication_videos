@@ -1,6 +1,37 @@
+Description
+
+table of contents
+
+MSP project description
+Manim examples
+
+resources
+git 
+manim video 
+manim api
+
+instructions
+git usage 
+scene/file management
+
+report hints
+presentation hints
+
+other repo instructions
 
 
 
+
+
+
+
+
+
+
+
+
+FOR MSP PROJECT STUDENTS, NOTE THAT THE REST OF THIS DOCUMENT IS NOT APPLICABLE TO YOU!
+**THE FOLLOWING PART IS ONLY REQUIRED FOR SETTING UP SEMANTIC RELEASE AND PRE-COMMIT HOOKS FROM THE BOOTSTRAP REPO.**
 ________________________________________________
 Required installations:
 
@@ -49,4 +80,5 @@ Required actions:
 
 
 ________________________________________________
+
 

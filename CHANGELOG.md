@@ -1,3 +1,9 @@
+## 1.0.0 (2026-02-23)
+
+### Bug Fixes
+
+* **readme:** now properly loads viseo ([67f4f5e](https://github.com/dagl1/MaCSBio_science_communication_videos/commit/67f4f5e28d04179e437c4afce6a5d2327a188d30))
+
 ## 1.0.0 (2026-01-03)
 
 ### Features

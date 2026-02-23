@@ -1,13 +1,14 @@
 [project]
-name = "bootstrap"
+name = "MaCSBio_science_communication_videos"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.14"
 dependencies = [
     "black>=25.12.0",
     "commitizen>=4.11.0",
     "isort>=7.0.0",
+    "manim>=0.20.0",
     "mypy>=1.19.1",
     "pre-commit>=4.5.1",
     "pytest>=9.0.2",

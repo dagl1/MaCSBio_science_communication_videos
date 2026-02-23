@@ -38,7 +38,7 @@ This repository contains the files necessary for creating animations of MaCSBio-
 
   ### 3Blue1Brown video 
 
-  [[!video](https://i.ytimg.com/vi/fNk_zzaMoSs/hqdefault.jpg)](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+  [![Video](https://i.ytimg.com/vi/fNk_zzaMoSs/hqdefault.jpg)](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
   The code for this 3Blue1Brown video can be found [here](https://github.com/3b1b/videos/blob/master/_2016/eola/chapter1.py).
 

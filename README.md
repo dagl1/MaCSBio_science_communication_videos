@@ -5,7 +5,8 @@ This repository contains the files necessary for creating animations of MaCSBio-
 ## Examples/highlights
   ### [DEMO]: Route optimisation
 
-    https://github.com/dagl1/MaCSBio_science_communication_videos/data/demo_route_optimisation/demo_route_optimisation.mp4
+
+https://github.com/user-attachments/assets/07aae5cb-d3b7-4ec1-8373-060e028a7292
 
 
 ## Student project description
@@ -101,6 +102,7 @@ Required actions:
 
 
 ________________________________________________
+
 
 
 

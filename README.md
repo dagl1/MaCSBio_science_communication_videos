@@ -31,23 +31,14 @@ This repository contains the files necessary for creating animations of MaCSBio-
   - [Additional repo information](#required-installations)
 
 
-
-
-
-    
-
-
-
-
-
 ## Examples and highlights
   ### Route optimisation (demo)
 
-     https://github.com/user-attachments/assets/07aae5cb-d3b7-4ec1-8373-060e028a7292
+ https://github.com/user-attachments/assets/07aae5cb-d3b7-4ec1-8373-060e028a7292
 
   ### 3Blue1Brown video 
 
-  [!video][https://i.ytimg.com/vi/fNk_zzaMoSs/hqdefault.jpg](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+  [[!video](https://i.ytimg.com/vi/fNk_zzaMoSs/hqdefault.jpg)](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
   The code for this 3Blue1Brown video can be found [here](https://github.com/3b1b/videos/blob/master/_2016/eola/chapter1.py).
 
@@ -485,7 +476,6 @@ Required actions:
   - In the project directory (preferably using git Bash):
 `./bootstrap.sh` (macOS/Linux) or `bootstrap.bat` (Windows terminal)
   - This script will install all necessary dependencies and set up the project environment.
-
 
 ________________________________________________
 

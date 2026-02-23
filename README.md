@@ -1,5 +1,29 @@
 # Description
 This repository contains the files necessary for creating animations of MaCSBio-derived algorithms for educational and science communication purposes. It also includes the videos themselves as well as instructions for student projects (MSP and others) on how to contribute to this repository. 
+# Table of contents
+
+## Examples/highlights
+  ### [DEMO]: Route optimisation
+
+    https://github.com/dagl1/MaCSBio_science_communication_videos/data/demo_route_optimisation/demo_route_optimisation.mp4
+
+
+## Student project description
+
+## resources
+### git 
+### manim video 
+### manim api
+
+## instructions
+### storyboarding
+### git usage 
+### scene/file management
+
+## report hints
+## presentation hints
+
+## Other instructions (not for students)
 
 # Table of contents
 
